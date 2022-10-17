@@ -47,3 +47,45 @@ https://user-images.githubusercontent.com/97266875/196176873-13e04c09-af86-47a4-
 | 사용자 이름 만들기 | 최종 확인 |
 | ---- | --- |
 | <img width="250" src="https://user-images.githubusercontent.com/97266875/196182802-d38678fe-c2ac-4e33-922a-0a580e84a801.gif"> | <img width="250" src="https://user-images.githubusercontent.com/97266875/196182809-4d0f6df0-8853-4488-8579-8725ff6ab1f3.gif"> |
+
+<br>
+
+## CRUD 기능
+### - 피드 작성
+https://user-images.githubusercontent.com/97266875/196184578-b1ca8a1b-e999-438c-937f-b4caa3cd9669.mp4
+- 사진 선택
+  - 초기 값은 가장 첫번째 사진
+  - 사진 선택 시, 선택된 사진은 뿌옇게 마스킹 처리
+  - 다른 사진 선택 시, 기존 사진은 마스킹 처리가 사라지며 새롭게 선택된 사진이 마스킹 처리됨
+- 글 작성
+  - 클릭 시 글작성 모드로 변경
+    - 작성중인 부분 이외의 부분은 검정색으로 블러 처리
+    - 상단 타이틀 '문구'로 변경
+    - 상단 우측 버튼 '확인'으로 변경
+- 공유 버튼
+  - 사진 저장은 'Firebase'로 진행
+  
+<br>
+
+### - 피드 불러오기
+https://user-images.githubusercontent.com/97266875/196190895-90ec35c7-c050-43fa-a6b1-f74cc3edc590.mp4
+- 피드 목록
+  - 페이징을 통해 목록 구현
+  - 한 페이지마다 10개의 피드 구성
+  - 무한 스크롤 가능
+  - 가장 상단의 피드를 보고 있는 상황에서 드래그 시 피드 목록 새로고침 진행
+- 사진 슬라이드
+  - 사진의 장수는 인디케이터로 확인 가능
+- 더보기
+  - 내가 작성한 글인 경우에만 클릭 가능
+  - 클릭 시 바텀 시트 노출
+  
+<br>
+
+### - 피드 수정
+https://user-images.githubusercontent.com/97266875/196193167-d9c2e2bd-729e-4131-a8e4-e787de8b16f1.mp4
+
+<br>
+
+### - 피드 삭제
+https://user-images.githubusercontent.com/97266875/196193805-50276d46-ad65-44f8-b999-f50228d888ec.mp4
