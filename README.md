@@ -5,7 +5,7 @@
 ### - 스플래시
 | 자동로그인 ⭕️ | 자동로그인 ❌, JWT 토큰 만료 |
 | ---- | --- |
-| <img width="280" src="https://user-images.githubusercontent.com/97266875/196167077-69bccad8-b1d9-41dc-a419-2079fbd9f646.gif"> | <img width="280" src="https://user-images.githubusercontent.com/97266875/196169144-e129f691-638a-4bc5-ba65-ef2210ead12c.gif">
+| <img width="250" src="https://user-images.githubusercontent.com/97266875/196167077-69bccad8-b1d9-41dc-a419-2079fbd9f646.gif"> | <img width="250" src="https://user-images.githubusercontent.com/97266875/196169144-e129f691-638a-4bc5-ba65-ef2210ead12c.gif">
 
 <br>
 
@@ -38,12 +38,12 @@ https://user-images.githubusercontent.com/97266875/196176873-13e04c09-af86-47a4-
 ### - 회원가입
 | 휴대폰 입력 | 인증번호 입력 | 이름 추가 |
 | ---- | --- | --- |
-| <img width="280" src="https://user-images.githubusercontent.com/97266875/196178067-b54eec28-b9dc-4092-b008-33c92fdea959.gif"> | <img width="280" src="https://user-images.githubusercontent.com/97266875/196178597-e6897426-091c-4a65-9f25-bb3710fbff22.gif"> | <img width="280" src="https://user-images.githubusercontent.com/97266875/196179436-268946a2-b1a7-4084-97a0-ddc1cb259be0.gif"> |
+| <img width="250" src="https://user-images.githubusercontent.com/97266875/196178067-b54eec28-b9dc-4092-b008-33c92fdea959.gif"> | <img width="250" src="https://user-images.githubusercontent.com/97266875/196178597-e6897426-091c-4a65-9f25-bb3710fbff22.gif"> | <img width="250" src="https://user-images.githubusercontent.com/97266875/196179436-268946a2-b1a7-4084-97a0-ddc1cb259be0.gif"> |
 
 | 비밀번호 만들기 | 생일 추가 | 약관 동의 |
 | ---- | --- | --- |
-| <img width="280" src="https://user-images.githubusercontent.com/97266875/196181421-d274a26f-fcd4-435a-9eb4-b7939ebad49a.gif"> | <img width="280" src="https://user-images.githubusercontent.com/97266875/196181447-245d7402-d003-40c2-b46a-9503ac5b3f80.gif"> | <img width="280" src="https://user-images.githubusercontent.com/97266875/196181455-3b0b9657-78e6-41b8-9bd4-4a6e927a5523.gif"> |
+| <img width="250" src="https://user-images.githubusercontent.com/97266875/196181421-d274a26f-fcd4-435a-9eb4-b7939ebad49a.gif"> | <img width="250" src="https://user-images.githubusercontent.com/97266875/196181447-245d7402-d003-40c2-b46a-9503ac5b3f80.gif"> | <img width="250" src="https://user-images.githubusercontent.com/97266875/196181455-3b0b9657-78e6-41b8-9bd4-4a6e927a5523.gif"> |
 
 | 사용자 이름 만들기 | 최종 확인 |
 | ---- | --- |
-| <img width="280" src="https://user-images.githubusercontent.com/97266875/196182802-d38678fe-c2ac-4e33-922a-0a580e84a801.gif"> | <img width="280" src="https://user-images.githubusercontent.com/97266875/196182809-4d0f6df0-8853-4488-8579-8725ff6ab1f3.gif"> |
+| <img width="250" src="https://user-images.githubusercontent.com/97266875/196182802-d38678fe-c2ac-4e33-922a-0a580e84a801.gif"> | <img width="250" src="https://user-images.githubusercontent.com/97266875/196182809-4d0f6df0-8853-4488-8579-8725ff6ab1f3.gif"> |
