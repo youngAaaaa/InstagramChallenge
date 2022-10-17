@@ -6,14 +6,25 @@
 //
 
 import UIKit
+import KakaoSDKCommon
+import FirebaseCore
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        
+        KakaoSDK.initSDK(appKey: "6bf3b9bbc353619381411d68b9ac3a7d")
+        
+        FirebaseApp.configure()
+        
+        Constant.loginID = UserDefaults.standard.string(forKey: "userID")
+        Constant.jwt = UserDefaults.standard.string(forKey: "jwt")
+        print("‼️Constant.loginID : \(Constant.loginID ?? "로그인 경험 엑스")")
+        print("‼️Constant.jwt : \(Constant.jwt ?? "로그인 경험 엑스")")
+        AutoSignInDataManager().jwtCheck()
+        Constant.semaphore.wait()
+        
         return true
     }
 
